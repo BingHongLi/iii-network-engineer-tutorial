@@ -1,0 +1,6 @@
+# If u are a new user, and never install docker on ur device, 
+# u need execute installDocker.sh for install docker
+# then u can execute start.sh to open jupyter container
+# sh installDocker.sh
+# sh start.sh
+# sh stop.sh
